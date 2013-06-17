@@ -5,4 +5,5 @@
   $b = 100;
   $c = $a * $b;
   echo $c;
+  echo "Galih Julianto Purnomo";
   ?>
